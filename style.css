@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+* {
+	margin:0;
+	padding:0;
+
+}
+
+nav {
+	    height: 80px;
+        background-color:#FFFFFF; 
+        position: sticky;
+        top:0; 
+		font-size: 25px;
+		padding: 0px 50px 10px 0px;
+		font-family: 'Lato', sans-serif;  
+}
+.cent{
+	text-align: center;
+	margin-top: 40px;
+}
+.img1{
+	padding: 0px 0px 30px 0px;
+	float: left;
+}
+.main {
+       height: 895px;
+	   background-image: url('BG.jpg');
+	   margin: 0 auto;
+}
+a{
+	text-decoration: none;
+	color: black;
+    padding: 40px 10px 10px 50px;
+}
+	
+.button1 {
+	padding: 25px 85px;
+	background-color:#01996D;
+	float: right;
+	border-radius: 10px;
+	color: #ffffff;
+	border: none;
+	font-size: 20px;
+
+
+}
+h1{
+	font-size: 60px;
+	color: #01996D;
+	padding: 230px 10px 10px 0px;
+}
+h2{
+	font-size: 50px;
+	color: #01996D;
+	padding-bottom: 20px;
+}
+.p1{
+	font-size: 20px;
+	color: black;
+	font-family: 'Lato', sans-serif;
+	line-height: 140%;
+
+}
+.container {
+	max-width:1500px;
+	margin: 0 auto;
+}
+.button2 {
+	padding:30px 90px;
+	background-color:#01996D;
+	float: left;
+	border-radius: 10px;
+	margin: 30px 10px 10px 0px;
+	color: #ffffff;
+	border: none;
+	font-size: 20px;
+
+
+}
+.second {
+       height: 1400px;
+	   margin: 0 auto;
+}
+.cards {
+float:left;
+padding: 15px 50px 15px 50px;
+margin: 20px 0px 20px 0px;
+height: 600px;
+width: 390px;
+}
+.heading{
+	font-size: 30px;
+	font-weight: bold;
+	padding: 0 0 50px 85px
+}
+.texti{
+height: 195px;
+width: 690px;
+display:inline-block;
+vertical-align: top;
+padding-bottom: 100px;
+}
+
+.card1{
+	padding: 0px 0px 46px 0px;
+	font-size: 20px;
+	color: black;
+	font-family: 'Lato', sans-serif;
+}
+.card2{
+	padding: 0px 0px 94px 0px;
+	font-size: 20px;
+	color: black;
+	font-family: 'Lato', sans-serif;
+}
+.card3{
+	padding: 0px 0px 72px 0px;
+	font-size: 20px;
+	color: black;
+	font-family: 'Lato', sans-serif;
+}
+.card1::before {
+	content: '01';
+	position: absolute;
+	color: #01996D;
+	font-family: Georgia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+    line-height: 150%;
+	top:1380px;
+	opacity: 30%;
+}
+.card3::before {
+	content: '03';
+	position: absolute;
+	color: #01996D;
+	font-family: Georgia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+    line-height: 150%;
+	top:1380px;
+	opacity: 30%;
+}
+.card2::before {
+	content: '02';
+	position: absolute;
+	color: #01996D;
+	font-family: Georgia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+    line-height: 150%;
+	top:1380px;
+	opacity: 30%;
+}
+.how{
+	font-size: 24px;
+	font-family: 'Lato', sans-serif;  
+	height: 40px;
+    width: 200px;
+	padding:140px 0px 0px 0px;
+}
+.third {
+	height: 920px;
+	background-color: #245852;
+	font-size:25px;
+}
+.hed3{
+	height: 160px;
+    width: 580px;
+	padding: 310px 5px 0px 0px;
+	color: white;
+}
+.video {
+	height: 515px;
+    width: 895px;
+	float: right;
+	top: 0px;
+	margin-top:-250px;
+}
+
+
+.p2{
+font-size: 50px;	
+font-family: Georgia;
+padding-bottom:30PX
+}
+.p3{
+		font-family: 'Lato', sans-serif;  
+}
+.fourth {
+	height: 920px;
+	font-size:25px;
+}
+.fith{
+	height: 650px;
+	background-color: #245852;
+}
+.four {
+	height: 573px;
+    width: 638px;
+	margin-left: 100px;
+	float: left;
+	top: 0px;
+	margin-top:120px;
+}
+.hed4{
+	float: right;
+	top: 0px;
+	margin-top:120px;
+}
+.p5{
+	font-size: 25px;	
+	font-family: 'Lato', sans-serif; 
+	padding-bottom: 60px;
+	padding-left: 67px;
+	color:#FFFFFF;
+	}
+.p4{
+		font-size: 40px;	
+		font-family: 'Lato', sans-serif; 
+		padding-bottom: 60px;
+		padding-left: 67px;
+		padding-top: 95px;
+		color:#FFFFFF;
+		}
+.p6{
+	padding-bottom: 20px;
+	font-size: 25px;	
+	font-family: 'Lato', sans-serif;
+}
+
+.small{
+	position: absolute;
+	left: 100px;
+	top: 3830px;
+	height: 300px;
+	width: 300px;
+}
+.spis{
+	padding-right: 10px ;
+}
+.logo{
+	margin-left: 200px ;
+	margin-top: 10px;
+	float: left;
+	top: 0px;
+}
+.flex-link{
+	display: flex;
+	justify-content: space-between;
+	width: 160px;
+
+}
+.flex-link > a{
+	width:  40px ;
+	height: 40px;
+	border: 50%;
+	background-color: white;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.flex-link a i{
+	color:  #245852;
+}
